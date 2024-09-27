@@ -1,7 +1,4 @@
-# E-commerce-site
-<<<<<<< Updated upstream
- Website for selling camping equipment and orginizing camping tours
-=======
+Website for selling camping equipment and orginizing camping tours
 
 Web site for selling camping equipment and orginizing camping tours
 oda.
@@ -63,4 +60,3 @@ Dovršavanje dinamičkih funkcionalnosti (dodavanje proizvoda u korpu, integraci
 Poboljšana validacija formi.
 Implementacija opcije za sortiranje i filtriranje proizvoda.
 Unapređenje SEO optimizacije i performansi sajta.
->>>>>>> Stashed changes
