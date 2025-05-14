@@ -25,9 +25,6 @@ Netlify: Hosting sajta.
 How to Use
 Live Demo: Posetite Camping Time Live Site da vidite sajt uživo: https://camping-time-shop.netlify.app/.
 
-Clone the Repository:
-https://github.com/n-kojevic/camping-time.git
-
 Open the project:
 Otvorite index.html fajl u vašem pretraživaču kako biste lokalno pregledali sajt.
 
