@@ -5,26 +5,32 @@ Built as a personal portfolio project to demonstrate frontend development skills
 
 ---
 
-## 🌐 Live Demo  
+## 🌐 Live Demo
+
 👉 [Visit Camping Time Live Site](https://camping-time-shop.netlify.app/)
 
 ---
 
 ## 📸 Screenshots
 
-### 💻 Lenovo ThinkPad L14  
+### 💻 Lenovo ThinkPad L14
+
 ![Lenovo ThinkPad L14](https://github.com/n-kojevic/E-commerce-Website/blob/main/assets/Lenovo%20ThinkPad%20L14-1750505528446.jpeg?raw=true)
 
-### 💻 MacBook Pro  
+### 💻 MacBook Pro
+
 ![MacBook Pro](https://github.com/n-kojevic/E-commerce-Website/blob/main/assets/MacBook%20Pro-1750505525643.jpeg?raw=true)
 
-### 📱 iPad  
+### 📱 iPad
+
 ![iPad](https://github.com/n-kojevic/E-commerce-Website/blob/main/assets/iPad-1750505524228.jpeg?raw=true)
 
-### 📱 iPhone 4  
+### 📱 iPhone 4
+
 ![iPhone 4](https://github.com/n-kojevic/E-commerce-Website/blob/main/assets/iPhone%204-1750505526995.jpeg?raw=true)
 
-### 📱 iPhone 5 SE  
+### 📱 iPhone 5 SE
+
 ![iPhone 5 SE](https://github.com/n-kojevic/E-commerce-Website/blob/main/assets/iPhone%205-SE-1750505530450.jpeg?raw=true)
 
 ## 📌 Project Overview
@@ -42,6 +48,12 @@ The website is responsive across three screen sizes (mobile, tablet, and desktop
 - **Dynamic Functionality**  
   Around 70% of the website’s behavior is dynamic, using vanilla JavaScript — including product interactions, navigation, toggles, and animations.
 
+- **Add to Cart Functionality**
+  Users can add products from any individual product page (single.html variants) to the cart, and see them listed in cart.html. Data is stored in localStorage so it persists between page reloads.
+
+- **Dynamic UI**
+  JavaScript handles product interactions, navigation, toggles, animations, and now shopping cart updates.
+
 - **Organized Layout**  
   Semantic HTML and clean CSS structure with reusable class naming. Components are grouped logically for maintainability.
 
@@ -52,9 +64,9 @@ The website is responsive across three screen sizes (mobile, tablet, and desktop
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Website structure and semantic layout  
-- **CSS3** – Styling, responsive layout with Flexbox and Grid  
-- **JavaScript** – Dynamic behavior and UI interactions  
+- **HTML5** – Website structure and semantic layout
+- **CSS3** – Styling, responsive layout with Flexbox and Grid
+- **JavaScript** – Dynamic behavior and UI interactions
 - **Netlify** – Hosting and live deployment
 
 ---
@@ -77,7 +89,6 @@ hoodie.html, knife.html, lantern.html, set.html, single.html, sleepbag.html
 
 README.md → Project info and instructions
 
-
 ---
 
 ## 🚀 How to Use Locally
@@ -98,5 +109,8 @@ Add product sorting/filtering options
 Optimize SEO and performance (lazy loading, image compression, etc.)
 
 📬 Contact
-For any questions or suggestions, feel free to connect via LinkedIn.
+For any questions or suggestions, feel free to connect via LinkedIn:
 
+https://www.linkedin.com/in/nikola-kojevic-30a98a121/
+
+```
