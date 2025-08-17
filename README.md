@@ -91,13 +91,21 @@ README.md → Project info and instructions
 
 ---
 
-## 🚀 How to Use Locally
+## 🚀 Bulid and Deploy:
 
-1. Clone the repository:
+local_development:
+steps: - clone_repository: "git clone https://github.com/n-kojevic/E-commerce-Website.git && cd E-commerce-Website" - open_entry_point: "Open home.html directly in browser" - optional_local_server: "Run 'npx live-server' for auto reload"
 
-```bash
-git clone https://github.com/n-kojevic/E-commerce-Website.git
+deployment:
+github_pages:
+steps: - commit_and_push: - "git add ." - "git commit -m 'Deploy update'" - "git push origin main" - enable_pages: - "Go to Settings > Pages" - "Source: Deploy from branch" - "Branch: main → /root" - url_format: "https://n-kojevic.github.io/E-commerce-Website/"
 
+    netlify:
+      steps:
+        - login: "Go to https://netlify.com and log in"
+        - new_site: "Click 'New site from Git'"
+        - connect_repo: "Select your GitHub repository (E-commerce-Website)"
+        - automatic_deploy: "Netlify will deploy automatically"
 
 🌱 Future Improvements
 Add cart functionality with local storage or backend integration
@@ -112,5 +120,7 @@ Optimize SEO and performance (lazy loading, image compression, etc.)
 For any questions or suggestions, feel free to connect via LinkedIn:
 
 https://www.linkedin.com/in/nikola-kojevic-30a98a121/
+
+```
 
 ```
